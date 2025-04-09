@@ -1,7 +1,7 @@
 # Welcome to ButterDogCo.
 ## Lead Members
 - Keegan (@butterdogceo)
-- Kai (@butterdogcoo)
+- Kai (@AccidentalTheory)
 
 ## Links
 [ButterDogCo Website](https://butterdogco.github.io)
