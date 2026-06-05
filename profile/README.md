@@ -1,6 +1,8 @@
-# Welcome to ButterDogCo
+<img src="https://cdn.jsdelivr.net/gh/butterdogco/butterdogco.github.io@99b4463829f4f3b42f3efda494fd80f962a350f3/docs/img/general/ButterDogCo%20Wide%20Logo.png" height="80" width="500" alt="ButterDogCo Wide Logo">
 
-We're a group that creates services for others to simply enjoy. Created on November 9th, 2025, we initially started as a basic search engine on Google Sites. We've since grown far from there, now creating all kinds of apps, websites, games, and more.
+# Welcome to ButterDogCo!
+
+We're a group that creates services for others to simply enjoy. Created on November 9th, 2025, we initially started as a basic search engine on Google Sites. We've since grown far beyond that, now creating a wide range of apps, websites, games, and more.
 
 ## Members
 
@@ -19,4 +21,5 @@ We're a group that creates services for others to simply enjoy. Created on Novem
 
 ## Links
 
-[ButterDogCo Website](https://butterdogco.com)
+- [ButterDogCo Homepage](https://butterdogco.com)
+- [ButterDogCo App List](https://butterdogco.com/applications)
